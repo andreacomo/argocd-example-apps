@@ -12,3 +12,4 @@ configMapGenerator:
   literals:
     - altGreeting=Good Morning!
     - enableRisky="false"
+    - aNewKey=a new value
