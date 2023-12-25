@@ -1,0 +1,38 @@
+repo_name: andreacomo/argocd-example-apps
+report_id: f41dbf9bb48feaf7751dc5d82b139057
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-25T20:40:08+00:00'
+requested_by: andreacomo
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: Jsonnet
+  description: A data templating language for app and tool developers
+  website_url: https://jsonnet.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/10435/preview.jpeg
+  detection_source: Repo Metadata
+- name: Mustache
+  description: Logic-less templates
+  website_url: http://mustache.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
