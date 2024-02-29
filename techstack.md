@@ -3,8 +3,8 @@
 ## Tech Stack
 andreacomo/argocd-example-apps is built on the following main stack:
 
-- [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
 - [Jsonnet](https://jsonnet.org) – Templating Languages & Extensions
+- [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
 
 Full tech stack [here](/techstack.md)
 
@@ -14,8 +14,8 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 andreacomo/argocd-example-apps is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1142/197655.png' alt='Mustache'/> [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/10435/preview.jpeg' alt='Jsonnet'/> [Jsonnet](https://jsonnet.org) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1142/197655.png' alt='Mustache'/> [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
 
 Full tech stack [here](/techstack.md)
 
@@ -26,7 +26,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [andreacomo/argocd-example-apps](https://github.com/andreacomo/argocd-example-apps)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|3<br/>Tools used|01/05/24 <br/>Report generated|
+|3<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
